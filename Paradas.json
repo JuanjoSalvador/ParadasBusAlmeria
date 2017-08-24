@@ -1,0 +1,1967 @@
+[
+    {
+        "numero": "1",
+        "nombre": "PLAZA QUEMADERO",
+        "longitud": "-2.466988",
+        "latitud": "36.84615"
+    },
+    {
+        "numero": "2",
+        "nombre": "PABLO IGLESIAS",
+        "longitud": "-2.4646894",
+        "latitud": "36.8463098"
+    },
+    {
+        "numero": "3",
+        "nombre": "RAMBLA ALFAREROS",
+        "longitud": "-2.4641648",
+        "latitud": "36.8431565"
+    },
+    {
+        "numero": "4",
+        "nombre": "PUERTA PURCHENA",
+        "longitud": "-2.463806",
+        "latitud": "36.840617"
+    },
+    {
+        "numero": "5",
+        "nombre": "PLAZA EDUCADOR",
+        "longitud": "-2.463493",
+        "latitud": "36.838524"
+    },
+    {
+        "numero": "6",
+        "nombre": "PASEO DE ALMERIA, 82",
+        "longitud": "-2.463135",
+        "latitud": "36.83589"
+    },
+    {
+        "numero": "7",
+        "nombre": "STELLA MARIS",
+        "longitud": "-2.460845",
+        "latitud": "36.837005"
+    },
+    {
+        "numero": "8",
+        "nombre": "AVDA. DE LA ESTACION",
+        "longitud": "-2.457414",
+        "latitud": "36.836926"
+    },
+    {
+        "numero": "9",
+        "nombre": "SANIDAD",
+        "longitud": "-2.45485560660793",
+        "latitud": "36.839119818339"
+    },
+    {
+        "numero": "10",
+        "nombre": "CTRA. DE RONDA, 137",
+        "longitud": "-2.453367",
+        "latitud": "36.841478"
+    },
+    {
+        "numero": "11",
+        "nombre": "CRUZ ROJA",
+        "longitud": "-2.452455",
+        "latitud": "36.843576"
+    },
+    {
+        "numero": "12",
+        "nombre": "BOLA AZUL",
+        "longitud": "-2.452797",
+        "latitud": "36.848256"
+    },
+    {
+        "numero": "13",
+        "nombre": "LA MAGNESITA",
+        "longitud": "-2.452401",
+        "latitud": "36.8507381"
+    },
+    {
+        "numero": "14",
+        "nombre": "FÁBRICA DE AZUFRE",
+        "longitud": "-2.4500392",
+        "latitud": "36.854535"
+    },
+    {
+        "numero": "15",
+        "nombre": "ACCESO PIEDRAS REDONDAS",
+        "longitud": "-2.4485922",
+        "latitud": "36.8569737"
+    },
+    {
+        "numero": "16",
+        "nombre": "RAMBLA INIESTA",
+        "longitud": "-2.447735",
+        "latitud": "36.8605846"
+    },
+    {
+        "numero": "17",
+        "nombre": "CEMENTERIO",
+        "longitud": "-2.4486517",
+        "latitud": "36.8623739"
+    },
+    {
+        "numero": "19",
+        "nombre": "CTRA. HUERCAL, 24",
+        "longitud": "-2.4452729",
+        "latitud": "36.8608285"
+    },
+    {
+        "numero": "20",
+        "nombre": "ESTADIO MUNICIPAL JUAN ROJAS",
+        "longitud": "-2.4446354",
+        "latitud": "36.8622178"
+    },
+    {
+        "numero": "22",
+        "nombre": "HOSPITAL TORRECARDENAS",
+        "longitud": "-2.440854",
+        "latitud": "36.863255"
+    },
+    {
+        "numero": "23",
+        "nombre": "ESTADIO MUNICIPAL JUAN ROJAS",
+        "longitud": "-2.444854",
+        "latitud": "36.86203"
+    },
+    {
+        "numero": "24",
+        "nombre": "ASOCIACIÓN DE VECINOS LA TORRE",
+        "longitud": "-2.4456383",
+        "latitud": "36.860345"
+    },
+    {
+        "numero": "25",
+        "nombre": "ACCESO PIEDRAS REDONDAS",
+        "longitud": "-2.4490957",
+        "latitud": "36.8565866"
+    },
+    {
+        "numero": "26",
+        "nombre": "FABRICA DE AZUFRE",
+        "longitud": "-2.4513542",
+        "latitud": "36.8535648"
+    },
+    {
+        "numero": "27",
+        "nombre": "LA MAGNESITA",
+        "longitud": "-2.4525602",
+        "latitud": "36.8503961"
+    },
+    {
+        "numero": "28",
+        "nombre": "BOLA AZUL",
+        "longitud": "-2.45293",
+        "latitud": "36.84829"
+    },
+    {
+        "numero": "29",
+        "nombre": "CRUZ ROJA",
+        "longitud": "-2.452628",
+        "latitud": "36.843561"
+    },
+    {
+        "numero": "30",
+        "nombre": "CTRA. DE RONDA, 129",
+        "longitud": "-2.453953",
+        "latitud": "36.840723"
+    },
+    {
+        "numero": "31",
+        "nombre": "SANIDAD",
+        "longitud": "-2.45466626946696",
+        "latitud": "36.8390919066416"
+    },
+    {
+        "numero": "32",
+        "nombre": "GREGORIO MARAÑON, 45",
+        "longitud": "-2.4561358006",
+        "latitud": "36.83766554"
+    },
+    {
+        "numero": "33",
+        "nombre": "GREGORIO MARAÑON  LA SALLE",
+        "longitud": "-2.4590736334",
+        "latitud": "36.8389435977"
+    },
+    {
+        "numero": "34",
+        "nombre": "OBISPO ORBERA",
+        "longitud": "-2.460163",
+        "latitud": "36.839528"
+    },
+    {
+        "numero": "35",
+        "nombre": "RAMBLA ALFAREROS",
+        "longitud": "-2.4640667",
+        "latitud": "36.8424119"
+    },
+    {
+        "numero": "36",
+        "nombre": "PABLO IGLESIAS",
+        "longitud": "-2.4646576",
+        "latitud": "36.8461368"
+    },
+    {
+        "numero": "37",
+        "nombre": "ESTADIO LA JUVENTUD",
+        "longitud": "-2.449906",
+        "latitud": "36.830565"
+    },
+    {
+        "numero": "39",
+        "nombre": "CALLE FERNANDEZ BUESO",
+        "longitud": "-2.451757",
+        "latitud": "36.833422"
+    },
+    {
+        "numero": "40",
+        "nombre": "AVENIDA AMERICA",
+        "longitud": "-2.454396",
+        "latitud": "36.833146"
+    },
+    {
+        "numero": "41",
+        "nombre": "VILLA GARCIA",
+        "longitud": "-2.452956",
+        "latitud": "36.830183"
+    },
+    {
+        "numero": "42",
+        "nombre": "SAN MIGUEL",
+        "longitud": "-2.45601",
+        "latitud": "36.831326"
+    },
+    {
+        "numero": "43",
+        "nombre": "CLUB NÁUTICO",
+        "longitud": "-2.459667",
+        "latitud": "36.832712"
+    },
+    {
+        "numero": "44",
+        "nombre": "OLIVEROS",
+        "longitud": "-2.462292",
+        "latitud": "36.834651"
+    },
+    {
+        "numero": "47",
+        "nombre": "CLUB NÁUTICO",
+        "longitud": "-2.459635",
+        "latitud": "36.83249"
+    },
+    {
+        "numero": "48",
+        "nombre": "SAN MIGUEL",
+        "longitud": "-2.456064",
+        "latitud": "36.831243"
+    },
+    {
+        "numero": "49",
+        "nombre": "VILLA GARCIA",
+        "longitud": "-2.453304",
+        "latitud": "36.830202"
+    },
+    {
+        "numero": "50",
+        "nombre": "LA SALLE",
+        "longitud": "-2.4593",
+        "latitud": "36.83945"
+    },
+    {
+        "numero": "51",
+        "nombre": "OBELISCO",
+        "longitud": "-2.457582",
+        "latitud": "36.842096"
+    },
+    {
+        "numero": "52",
+        "nombre": "PLAZA ALTAMIRA",
+        "longitud": "-2.4565",
+        "latitud": "36.84212"
+    },
+    {
+        "numero": "53",
+        "nombre": "DOCTOR CARRACIDO",
+        "longitud": "-2.4544",
+        "latitud": "36.8412"
+    },
+    {
+        "numero": "54",
+        "nombre": "BLAS INFANTE",
+        "longitud": "-2.45115149054708",
+        "latitud": "36.8412842701804"
+    },
+    {
+        "numero": "55",
+        "nombre": "ARCIPRESTE DE HITA",
+        "longitud": "-2.44847944134231",
+        "latitud": "36.8410465428689"
+    },
+    {
+        "numero": "56",
+        "nombre": "AVDA. MEDITERRANEO - PARQUE",
+        "longitud": "-2.44724",
+        "latitud": "36.8412799"
+    },
+    {
+        "numero": "57",
+        "nombre": "AVDA. DEL MEDITERRANEO 244",
+        "longitud": "-2.447218",
+        "latitud": "36.8428773"
+    },
+    {
+        "numero": "58",
+        "nombre": "AVDA. DEL MEDITERRANEO 290",
+        "longitud": "-2.4472393",
+        "latitud": "36.8447935"
+    },
+    {
+        "numero": "59",
+        "nombre": "AVDA. DEL MEDITERRANEO - CTRA. DE NIJAR",
+        "longitud": "-2.4471095",
+        "latitud": "36.8465314"
+    },
+    {
+        "numero": "60",
+        "nombre": "BARRIO SAN LUÍS",
+        "longitud": "-2.4466583",
+        "latitud": "36.8491268"
+    },
+    {
+        "numero": "61",
+        "nombre": "CENTRO COMERCIAL MEDITERRÁNEO",
+        "longitud": "-2.446113",
+        "latitud": "36.853845"
+    },
+    {
+        "numero": "65",
+        "nombre": "VILLA BLANCA - PARQUE",
+        "longitud": "-2.4416387",
+        "latitud": "36.8533429"
+    },
+    {
+        "numero": "66",
+        "nombre": "VILLA BLANCA - TELEFÓNICA",
+        "longitud": "-2.443408",
+        "latitud": "36.8542647"
+    },
+    {
+        "numero": "67",
+        "nombre": "CENTRO COMERCIAL MEDITERRÁNEO",
+        "longitud": "-2.4462579",
+        "latitud": "36.852695"
+    },
+    {
+        "numero": "68",
+        "nombre": "BARRIO SAN LUÍS",
+        "longitud": "-2.446749",
+        "latitud": "36.848518"
+    },
+    {
+        "numero": "69",
+        "nombre": "JEFATURA POLICÍA LOCAL",
+        "longitud": "-2.4473692",
+        "latitud": "36.8450391"
+    },
+    {
+        "numero": "70",
+        "nombre": "AVDA. MEDITERRANEO 233",
+        "longitud": "-2.4473561",
+        "latitud": "36.8430243"
+    },
+    {
+        "numero": "71",
+        "nombre": "PLAZA NUEVA ANDALUCIA",
+        "longitud": "-2.44745",
+        "latitud": "36.84129034"
+    },
+    {
+        "numero": "72",
+        "nombre": "IES AZCONA",
+        "longitud": "-2.448535",
+        "latitud": "36.839652"
+    },
+    {
+        "numero": "74",
+        "nombre": "CONSERVATORIO DE MÚSICA",
+        "longitud": "-2.452269",
+        "latitud": "36.839549"
+    },
+    {
+        "numero": "75",
+        "nombre": "PLAZA DE PESCADORES",
+        "longitud": "-2.4784",
+        "latitud": "36.8393"
+    },
+    {
+        "numero": "76",
+        "nombre": "CALLE VALDIVIA",
+        "longitud": "-2.47704",
+        "latitud": "36.84099"
+    },
+    {
+        "numero": "77",
+        "nombre": "AVENIDA DEL MAR 106",
+        "longitud": "-2.47565",
+        "latitud": "36.84084"
+    },
+    {
+        "numero": "78",
+        "nombre": "AVENIDA DEL MAR 50",
+        "longitud": "-2.47545",
+        "latitud": "36.83922"
+    },
+    {
+        "numero": "79",
+        "nombre": "AVENIDA DEL MAR 39",
+        "longitud": "-2.47575",
+        "latitud": "36.83882"
+    },
+    {
+        "numero": "80",
+        "nombre": "FEDERICO GARCÍA LORCA 54",
+        "longitud": "-2.459694",
+        "latitud": "36.838727"
+    },
+    {
+        "numero": "81",
+        "nombre": "GRANJA ESCUELA",
+        "longitud": "-2.4463708",
+        "latitud": "36.8455361"
+    },
+    {
+        "numero": "82",
+        "nombre": "LOS DÍAZ",
+        "longitud": "-2.4427842",
+        "latitud": "36.8458248"
+    },
+    {
+        "numero": "83",
+        "nombre": "PLAZA DE FÁTIMA",
+        "longitud": "-2.439035",
+        "latitud": "36.845126"
+    },
+    {
+        "numero": "84",
+        "nombre": "POLÍGONO LA MEZQUITA",
+        "longitud": "-2.4345092",
+        "latitud": "36.843199"
+    },
+    {
+        "numero": "85",
+        "nombre": "MARE NOSTRUM 32",
+        "longitud": "-2.432",
+        "latitud": "36.8444"
+    },
+    {
+        "numero": "86",
+        "nombre": "MARE NOSTRUM 50",
+        "longitud": "-2.4327",
+        "latitud": "36.84715"
+    },
+    {
+        "numero": "87",
+        "nombre": "MARE NOSTRUM - COLEGIO",
+        "longitud": "-2.43251498413088",
+        "latitud": "36.846448683959"
+    },
+    {
+        "numero": "88",
+        "nombre": "AMBULATORIO PUCHE",
+        "longitud": "-2.43273",
+        "latitud": "36.84733"
+    },
+    {
+        "numero": "89",
+        "nombre": "MARE NOSTRUM 102",
+        "longitud": "-2.43292105026239",
+        "latitud": "36.8498746486294"
+    },
+    {
+        "numero": "90",
+        "nombre": "POLIGONO SECTOR 20",
+        "longitud": "-2.43112589416501",
+        "latitud": "36.8505211640105"
+    },
+    {
+        "numero": "91",
+        "nombre": "MARE NOSTRUM 102",
+        "longitud": "-2.43299615211481",
+        "latitud": "36.849940304812"
+    },
+    {
+        "numero": "92",
+        "nombre": "AMBULATORIO PUCHE",
+        "longitud": "-2.43289",
+        "latitud": "36.84731"
+    },
+    {
+        "numero": "93",
+        "nombre": "MARE NOSTRUM 50",
+        "longitud": "-2.4328",
+        "latitud": "36.8471"
+    },
+    {
+        "numero": "94",
+        "nombre": "RESIDENCIA ALBORÁN",
+        "longitud": "-2.457624",
+        "latitud": "36.831797"
+    },
+    {
+        "numero": "95",
+        "nombre": "MARE NOSTRUM 32",
+        "longitud": "-2.4321",
+        "latitud": "36.8444"
+    },
+    {
+        "numero": "96",
+        "nombre": "EL INGENIO",
+        "longitud": "-2.4353712",
+        "latitud": "36.8434934"
+    },
+    {
+        "numero": "97",
+        "nombre": "MOLINO ROJO",
+        "longitud": "-2.439995",
+        "latitud": "36.845757"
+    },
+    {
+        "numero": "98",
+        "nombre": "LOS DÍAZ",
+        "longitud": "-2.441945",
+        "latitud": "36.846133"
+    },
+    {
+        "numero": "99",
+        "nombre": "GRANJA ESCUELA",
+        "longitud": "-2.444853",
+        "latitud": "36.845607"
+    },
+    {
+        "numero": "101",
+        "nombre": "FUENTE DE LOS PECES",
+        "longitud": "-2.46801",
+        "latitud": "36.83591"
+    },
+    {
+        "numero": "102",
+        "nombre": "LA CURVA NICOLÁS SALMERON",
+        "longitud": "-2.4732",
+        "latitud": "36.8376"
+    },
+    {
+        "numero": "104",
+        "nombre": "SAN ROQUE",
+        "longitud": "-2.4785685",
+        "latitud": "36.8373594"
+    },
+    {
+        "numero": "105",
+        "nombre": "LOS ALMENDROS",
+        "longitud": "-2.451355144",
+        "latitud": "36.85928112"
+    },
+    {
+        "numero": "107",
+        "nombre": "IGLESIA PIEDRAS REDONDAS",
+        "longitud": "-2.4512933",
+        "latitud": "36.8584"
+    },
+    {
+        "numero": "108",
+        "nombre": "RESIDENCIA ALBORAN",
+        "longitud": "-2.457749",
+        "latitud": "36.831959"
+    },
+    {
+        "numero": "109",
+        "nombre": "VILLA MARÍA",
+        "longitud": "-2.4559099",
+        "latitud": "36.8543702"
+    },
+    {
+        "numero": "111",
+        "nombre": "MAESTRÍA",
+        "longitud": "-2.4555952",
+        "latitud": "36.8493096"
+    },
+    {
+        "numero": "112",
+        "nombre": "CARRETERA GRANADA 213",
+        "longitud": "-2.4569326",
+        "latitud": "36.8480865"
+    },
+    {
+        "numero": "113",
+        "nombre": "CARRETERA GRANADA 145",
+        "longitud": "-2.4585103",
+        "latitud": "36.8466744"
+    },
+    {
+        "numero": "114",
+        "nombre": "VAGUADA",
+        "longitud": "-2.458554",
+        "latitud": "36.844652"
+    },
+    {
+        "numero": "115",
+        "nombre": "OBELISCO",
+        "longitud": "-2.458296",
+        "latitud": "36.842148"
+    },
+    {
+        "numero": "116",
+        "nombre": "CALLE MAMÍ - CAUCE",
+        "longitud": "-2.440887",
+        "latitud": "36.8464061"
+    },
+    {
+        "numero": "117",
+        "nombre": "VAGUADA",
+        "longitud": "-2.458037",
+        "latitud": "36.844704"
+    },
+    {
+        "numero": "121",
+        "nombre": "MARE NOSTRUM - COLEGIO",
+        "longitud": "-2.4324",
+        "latitud": "36.8465"
+    },
+    {
+        "numero": "124",
+        "nombre": "IGLESIA PIEDRAS REDONDAS",
+        "longitud": "-2.450106",
+        "latitud": "36.859218"
+    },
+    {
+        "numero": "126",
+        "nombre": "CALLE MAMÍ - IGLESIA",
+        "longitud": "-2.438848",
+        "latitud": "36.8469145"
+    },
+    {
+        "numero": "127",
+        "nombre": "CALLE MAMÍ, 140",
+        "longitud": "-2.436627",
+        "latitud": "36.847523"
+    },
+    {
+        "numero": "128",
+        "nombre": "BARRIO ARACELI",
+        "longitud": "-2.4528666",
+        "latitud": "36.8561472"
+    },
+    {
+        "numero": "130",
+        "nombre": "CRUZ DE CARAVACA",
+        "longitud": "-2.454321",
+        "latitud": "36.8504686"
+    },
+    {
+        "numero": "131",
+        "nombre": "BARRIO ARACELI",
+        "longitud": "-2.4534767",
+        "latitud": "36.8558403"
+    },
+    {
+        "numero": "133",
+        "nombre": "CALIFORNIA",
+        "longitud": "-2.451382",
+        "latitud": "36.82884"
+    },
+    {
+        "numero": "134",
+        "nombre": "PLAZA DE ZAPILLO",
+        "longitud": "-2.44926",
+        "latitud": "36.826366"
+    },
+    {
+        "numero": "135",
+        "nombre": "PASEO MARÍTIMO",
+        "longitud": "-2.447286",
+        "latitud": "36.824909"
+    },
+    {
+        "numero": "136",
+        "nombre": "AUDITORIO",
+        "longitud": "-2.444219",
+        "latitud": "36.822781"
+    },
+    {
+        "numero": "137",
+        "nombre": "RESIDENCIA TERCERA EDAD",
+        "longitud": "-2.439843",
+        "latitud": "36.81968"
+    },
+    {
+        "numero": "138",
+        "nombre": "NUEVA ALMERÍA",
+        "longitud": "-2.439869",
+        "latitud": "36.819661"
+    },
+    {
+        "numero": "139",
+        "nombre": "PLAYA",
+        "longitud": "-2.435805",
+        "latitud": "36.816776"
+    },
+    {
+        "numero": "140",
+        "nombre": "RIO ANDARAX",
+        "longitud": "-2.42658",
+        "latitud": "36.815635"
+    },
+    {
+        "numero": "141",
+        "nombre": "LA CABAÑA",
+        "longitud": "-2.419667",
+        "latitud": "36.817271"
+    },
+    {
+        "numero": "142",
+        "nombre": "EL BOBAR",
+        "longitud": "-2.414522",
+        "latitud": "36.818544"
+    },
+    {
+        "numero": "143",
+        "nombre": "TRAFARIÑA",
+        "longitud": "-2.40988",
+        "latitud": "36.821566"
+    },
+    {
+        "numero": "144",
+        "nombre": "UNIVERSIDAD",
+        "longitud": "-2.404127",
+        "latitud": "36.827775"
+    },
+    {
+        "numero": "145",
+        "nombre": "TRAFARIÑA",
+        "longitud": "-2.410005",
+        "latitud": "36.821593"
+    },
+    {
+        "numero": "146",
+        "nombre": "EL BOBAR",
+        "longitud": "-2.41465",
+        "latitud": "36.818687"
+    },
+    {
+        "numero": "147",
+        "nombre": "LA CABAÑA",
+        "longitud": "-2.41989",
+        "latitud": "36.817401"
+    },
+    {
+        "numero": "148",
+        "nombre": "RIO ANDARAX",
+        "longitud": "-2.42691",
+        "latitud": "36.815835"
+    },
+    {
+        "numero": "149",
+        "nombre": "PLAYA",
+        "longitud": "-2.435201",
+        "latitud": "36.816474"
+    },
+    {
+        "numero": "150",
+        "nombre": "NUEVA ALMERÍA",
+        "longitud": "-2.438193",
+        "latitud": "36.818603"
+    },
+    {
+        "numero": "151",
+        "nombre": "QUINTO PINO",
+        "longitud": "-2.440861",
+        "latitud": "36.820536"
+    },
+    {
+        "numero": "152",
+        "nombre": "AUDITORIO",
+        "longitud": "-2.444093",
+        "latitud": "36.822888"
+    },
+    {
+        "numero": "154",
+        "nombre": "RECINTO FERIAL",
+        "longitud": "-2.44503",
+        "latitud": "36.8250501"
+    },
+    {
+        "numero": "155",
+        "nombre": "AVDA. DEL MEDITERRANEO 45",
+        "longitud": "-2.445467616",
+        "latitud": "36.8279662908"
+    },
+    {
+        "numero": "156",
+        "nombre": "CALLE ZÉUS",
+        "longitud": "-2.435403",
+        "latitud": "36.849303"
+    },
+    {
+        "numero": "157",
+        "nombre": "AVDA. DEL MEDITERRANEO 104",
+        "longitud": "-2.44632",
+        "latitud": "36.8324477429"
+    },
+    {
+        "numero": "158",
+        "nombre": "CORTIJO GRANDE",
+        "longitud": "-2.4467085",
+        "latitud": "36.8341351"
+    },
+    {
+        "numero": "159",
+        "nombre": "AV. MEDITERRANEO - ESTACIÓN DE SERVICIO",
+        "longitud": "-2.4467987",
+        "latitud": "36.8344742"
+    },
+    {
+        "numero": "160",
+        "nombre": "AVDA. DEL MEDITERRANEO 104",
+        "longitud": "-2.44635",
+        "latitud": "36.8322743643075"
+    },
+    {
+        "numero": "161",
+        "nombre": "CALLE LA FUENTE",
+        "longitud": "-2.43742",
+        "latitud": "36.850505"
+    },
+    {
+        "numero": "162",
+        "nombre": "AVDA. DEL MEDITERRANEO 45",
+        "longitud": "-2.445624183",
+        "latitud": "36.8279601"
+    },
+    {
+        "numero": "163",
+        "nombre": "RECINTO FERIAL",
+        "longitud": "-2.445134",
+        "latitud": "36.8254307"
+    },
+    {
+        "numero": "164",
+        "nombre": "PASEO MARITIMO",
+        "longitud": "-2.447185",
+        "latitud": "36.825033"
+    },
+    {
+        "numero": "165",
+        "nombre": "PLAZA ZAPILLO",
+        "longitud": "-2.44883",
+        "latitud": "36.826206"
+    },
+    {
+        "numero": "166",
+        "nombre": "CALIFORNIA",
+        "longitud": "-2.451651",
+        "latitud": "36.829248"
+    },
+    {
+        "numero": "167",
+        "nombre": "EL CHARCO",
+        "longitud": "-2.3889",
+        "latitud": "36.834857"
+    },
+    {
+        "numero": "168",
+        "nombre": "COSTACABANA  PISTAS DEPORTIVAS",
+        "longitud": "-2.385125",
+        "latitud": "36.838443"
+    },
+    {
+        "numero": "169",
+        "nombre": "PLAZA DE COSTACABANA",
+        "longitud": "-2.380912",
+        "latitud": "36.839386"
+    },
+    {
+        "numero": "170",
+        "nombre": "CALLE RHIN  CARRETERA DE RETAMAR",
+        "longitud": "-2.386149",
+        "latitud": "36.837982"
+    },
+    {
+        "numero": "171",
+        "nombre": "CALLE RHIN",
+        "longitud": "-2.385783",
+        "latitud": "36.83613"
+    },
+    {
+        "numero": "172",
+        "nombre": "CALLE VOLGA",
+        "longitud": "-2.3874879",
+        "latitud": "36.835457"
+    },
+    {
+        "numero": "173",
+        "nombre": "RAMBLA EL CHARCO",
+        "longitud": "-2.389024",
+        "latitud": "36.834473"
+    },
+    {
+        "numero": "174",
+        "nombre": "REGIONES",
+        "longitud": "-2.451244",
+        "latitud": "36.845452"
+    },
+    {
+        "numero": "175",
+        "nombre": "LOS PARTIDORES",
+        "longitud": "-2.42463",
+        "latitud": "36.840832"
+    },
+    {
+        "numero": "176",
+        "nombre": "LOS PICOS",
+        "longitud": "-2.418472",
+        "latitud": "36.839486"
+    },
+    {
+        "numero": "177",
+        "nombre": "LAS COCHERAS",
+        "longitud": "-2.4131086",
+        "latitud": "36.8407134"
+    },
+    {
+        "numero": "178",
+        "nombre": "CTRA. NÍJAR, 142",
+        "longitud": "-2.411507979",
+        "latitud": "36.84083072"
+    },
+    {
+        "numero": "179",
+        "nombre": "PLAZA CAÑADA",
+        "longitud": "-2.407328",
+        "latitud": "36.84044"
+    },
+    {
+        "numero": "180",
+        "nombre": "CTRA. NIJAR, 280",
+        "longitud": "-2.404356",
+        "latitud": "36.840416"
+    },
+    {
+        "numero": "181",
+        "nombre": "KILÓMETRO 5",
+        "longitud": "-2.398577",
+        "latitud": "36.841161"
+    },
+    {
+        "numero": "183",
+        "nombre": "LOS ÁNGELES",
+        "longitud": "-2.388164",
+        "latitud": "36.845881"
+    },
+    {
+        "numero": "184",
+        "nombre": "VENTA CABRERA",
+        "longitud": "-2.386231",
+        "latitud": "36.846742"
+    },
+    {
+        "numero": "185",
+        "nombre": "ROMERA",
+        "longitud": "-2.383086",
+        "latitud": "36.84787"
+    },
+    {
+        "numero": "186",
+        "nombre": "KILÓMETRO 7",
+        "longitud": "-2.377950955",
+        "latitud": "36.84910576"
+    },
+    {
+        "numero": "187",
+        "nombre": "RAMBLA LECHUGA",
+        "longitud": "-2.374088762",
+        "latitud": "36.84953661"
+    },
+    {
+        "numero": "188",
+        "nombre": "AEROPUERTO",
+        "longitud": "-2.371195",
+        "latitud": "36.848124"
+    },
+    {
+        "numero": "189",
+        "nombre": "KILÓMETRO 8",
+        "longitud": "-2.368805",
+        "latitud": "36.850933"
+    },
+    {
+        "numero": "190",
+        "nombre": "LA VENTA",
+        "longitud": "-2.363427",
+        "latitud": "36.851844"
+    },
+    {
+        "numero": "191",
+        "nombre": "EL CHALET",
+        "longitud": "-2.360851087",
+        "latitud": "36.85234028"
+    },
+    {
+        "numero": "192",
+        "nombre": "KILÓMETRO 9",
+        "longitud": "-2.35751287031866",
+        "latitud": "36.8528312599773"
+    },
+    {
+        "numero": "193",
+        "nombre": "EL ALQUIÁN",
+        "longitud": "-2.354823",
+        "latitud": "36.852877"
+    },
+    {
+        "numero": "194",
+        "nombre": "PARQUE EL ALQUIAN",
+        "longitud": "-2.351141",
+        "latitud": "36.851946"
+    },
+    {
+        "numero": "195",
+        "nombre": "EL ALQUIAN",
+        "longitud": "-2.354823",
+        "latitud": "36.852877"
+    },
+    {
+        "numero": "196",
+        "nombre": "KILÓMETRO 9",
+        "longitud": "-2.357584",
+        "latitud": "36.852748"
+    },
+    {
+        "numero": "198",
+        "nombre": "LA VENTA",
+        "longitud": "-2.363427",
+        "latitud": "36.851844"
+    },
+    {
+        "numero": "199",
+        "nombre": "KILÓMETRO 8",
+        "longitud": "-2.368805",
+        "latitud": "36.850933"
+    },
+    {
+        "numero": "202",
+        "nombre": "ROMERA",
+        "longitud": "-2.383086",
+        "latitud": "36.84787"
+    },
+    {
+        "numero": "203",
+        "nombre": "VENTA CABRERA",
+        "longitud": "-2.386231",
+        "latitud": "36.846742"
+    },
+    {
+        "numero": "204",
+        "nombre": "LOS ÁNGELES",
+        "longitud": "-2.388462",
+        "latitud": "36.845959"
+    },
+    {
+        "numero": "206",
+        "nombre": "KILÓMETRO 5",
+        "longitud": "-2.398577",
+        "latitud": "36.841161"
+    },
+    {
+        "numero": "207",
+        "nombre": "CTRA. DE NIJAR 239",
+        "longitud": "-2.405279",
+        "latitud": "36.840349"
+    },
+    {
+        "numero": "208",
+        "nombre": "PLAZA DE LA CAÑADA IGLESIA",
+        "longitud": "-2.40763",
+        "latitud": "36.840498"
+    },
+    {
+        "numero": "210",
+        "nombre": "LAS COCHERAS",
+        "longitud": "-2.413529",
+        "latitud": "36.840744"
+    },
+    {
+        "numero": "211",
+        "nombre": "LOS PICOS",
+        "longitud": "-2.418472",
+        "latitud": "36.839486"
+    },
+    {
+        "numero": "212",
+        "nombre": "LOS PARTIDORES",
+        "longitud": "-2.42463",
+        "latitud": "36.840832"
+    },
+    {
+        "numero": "221",
+        "nombre": "RESIDENCIAL LOS GIRASOLES",
+        "longitud": "-2.312107",
+        "latitud": "36.834913"
+    },
+    {
+        "numero": "222",
+        "nombre": "GUARDERÍA RETAMAR",
+        "longitud": "-2.305746",
+        "latitud": "36.839368"
+    },
+    {
+        "numero": "223",
+        "nombre": "CAMINO DE LA ESCUELA 20",
+        "longitud": "-2.303832",
+        "latitud": "36.845151"
+    },
+    {
+        "numero": "224",
+        "nombre": "PASEO DE CASTAÑEDA  CALLE POMELO",
+        "longitud": "-2.305541",
+        "latitud": "36.84738"
+    },
+    {
+        "numero": "225",
+        "nombre": "PASEO DE CASTAÑEDA 92",
+        "longitud": "-2.306442",
+        "latitud": "36.850608"
+    },
+    {
+        "numero": "226",
+        "nombre": "CALLE REAL SOLAR",
+        "longitud": "-2.281838",
+        "latitud": "36.890773"
+    },
+    {
+        "numero": "227",
+        "nombre": "CUEVAS CENTRO",
+        "longitud": "-2.2808095732968",
+        "latitud": "36.8922171375448"
+    },
+    {
+        "numero": "228",
+        "nombre": "CAMINO DE LOS MOLINOS 40",
+        "longitud": "-2.28012793061523",
+        "latitud": "36.893456980119"
+    },
+    {
+        "numero": "229",
+        "nombre": "CAMINO DE LAS HERAS",
+        "longitud": "-2.27855809512858",
+        "latitud": "36.8923567309516"
+    },
+    {
+        "numero": "230",
+        "nombre": "CAMINO DE LOS MOLINOS 15",
+        "longitud": "-2.2807853",
+        "latitud": "36.8923461"
+    },
+    {
+        "numero": "231",
+        "nombre": "CALLE REAL",
+        "longitud": "-2.28089573001199",
+        "latitud": "36.8922447018525"
+    },
+    {
+        "numero": "232",
+        "nombre": "CALLE REAL 1",
+        "longitud": "-2.2819551175299",
+        "latitud": "36.8906916380086"
+    },
+    {
+        "numero": "238",
+        "nombre": "COLEGIO PÚBLICO SAN BERNARDO",
+        "longitud": "-2.358712",
+        "latitud": "36.854562"
+    },
+    {
+        "numero": "239",
+        "nombre": "PARAJE DEL CERRILLO",
+        "longitud": "-2.35884",
+        "latitud": "36.854687"
+    },
+    {
+        "numero": "244",
+        "nombre": "SAN VICENTE",
+        "longitud": "-2.370647",
+        "latitud": "36.859104"
+    },
+    {
+        "numero": "245",
+        "nombre": "SAN VICENTE",
+        "longitud": "-2.3706",
+        "latitud": "36.859148"
+    },
+    {
+        "numero": "246",
+        "nombre": "CTRA. VIATOR A ALQUIAN 55",
+        "longitud": "-2.375752",
+        "latitud": "36.861616"
+    },
+    {
+        "numero": "248",
+        "nombre": "TRANSPORTES LOPEZ CAMPILLO",
+        "longitud": "-2.378471",
+        "latitud": "36.865163"
+    },
+    {
+        "numero": "249",
+        "nombre": "TRANSPORTES LOPEZ CAMPILLO",
+        "longitud": "-2.378471",
+        "latitud": "36.865163"
+    },
+    {
+        "numero": "252",
+        "nombre": "VENTA GASPAR",
+        "longitud": "-2.386308",
+        "latitud": "36.867759"
+    },
+    {
+        "numero": "253",
+        "nombre": "VENTA GASPAR",
+        "longitud": "-2.386226",
+        "latitud": "36.867673"
+    },
+    {
+        "numero": "254",
+        "nombre": "EL BOTICARIO",
+        "longitud": "-2.387855",
+        "latitud": "36.860353"
+    },
+    {
+        "numero": "255",
+        "nombre": "EL BOTICARIO",
+        "longitud": "-2.387855",
+        "latitud": "36.860353"
+    },
+    {
+        "numero": "257",
+        "nombre": "CRUCE DE LOS LLANOS",
+        "longitud": "-2.3874448",
+        "latitud": "36.8560561"
+    },
+    {
+        "numero": "258",
+        "nombre": "CARRETERA DE VIATOR, 56",
+        "longitud": "-2.387000305",
+        "latitud": "36.8536404"
+    },
+    {
+        "numero": "259",
+        "nombre": "CTRA. VIATOR 47",
+        "longitud": "-2.387",
+        "latitud": "36.85364"
+    },
+    {
+        "numero": "264",
+        "nombre": "LOS CASTAÑOS",
+        "longitud": "-2.308599",
+        "latitud": "36.862531"
+    },
+    {
+        "numero": "265",
+        "nombre": "LOS CASTAÑOS",
+        "longitud": "-2.308599",
+        "latitud": "36.862531"
+    },
+    {
+        "numero": "266",
+        "nombre": "ACEBUCHE",
+        "longitud": "-2.30326",
+        "latitud": "36.86508"
+    },
+    {
+        "numero": "267",
+        "nombre": "REGIONES",
+        "longitud": "-2.451314",
+        "latitud": "36.845457"
+    },
+    {
+        "numero": "268",
+        "nombre": "PARQUE ALQUIAN",
+        "longitud": "-2.351118",
+        "latitud": "36.852062"
+    },
+    {
+        "numero": "273",
+        "nombre": "CARRETERA DE RONDA, 31",
+        "longitud": "-2.458401392",
+        "latitud": "36.83431913"
+    },
+    {
+        "numero": "274",
+        "nombre": "CALLES DARRICAL - OVIEDO",
+        "longitud": "-2.4487458",
+        "latitud": "36.8333427"
+    },
+    {
+        "numero": "275",
+        "nombre": "CALLES DARRICAL - VELEZ RUBIO",
+        "longitud": "-2.4470864",
+        "latitud": "36.8334318"
+    },
+    {
+        "numero": "277",
+        "nombre": "CALLES DARRICAL - LAROLES",
+        "longitud": "-2.4468898",
+        "latitud": "36.8334463"
+    },
+    {
+        "numero": "278",
+        "nombre": "CALLES DARRICAL - FIÑANA",
+        "longitud": "-2.4487458",
+        "latitud": "36.8333427"
+    },
+    {
+        "numero": "279",
+        "nombre": "PLAZA DE DALÍAS TESORERIA",
+        "longitud": "-2.4442637",
+        "latitud": "36.8355888"
+    },
+    {
+        "numero": "281",
+        "nombre": "RAMBLA HUMILLADERO",
+        "longitud": "-2.459708",
+        "latitud": "36.8468553"
+    },
+    {
+        "numero": "282",
+        "nombre": "MERCADO DE LOS ANGELES",
+        "longitud": "-2.4598107",
+        "latitud": "36.847696"
+    },
+    {
+        "numero": "286",
+        "nombre": "VILLA MARÍA",
+        "longitud": "-2.4559099",
+        "latitud": "36.8543702"
+    },
+    {
+        "numero": "287",
+        "nombre": "CONSULTORIO CAMINO DE LA CRUZ",
+        "longitud": "-2.455624",
+        "latitud": "36.851608"
+    },
+    {
+        "numero": "291",
+        "nombre": "AVDA. MEDITERRÁNEO CTRA. DE NIJAR",
+        "longitud": "-2.4470168",
+        "latitud": "36.8470691"
+    },
+    {
+        "numero": "292",
+        "nombre": "ESTACIÓN INTERMODAL",
+        "longitud": "-2.456291",
+        "latitud": "36.834918"
+    },
+    {
+        "numero": "293",
+        "nombre": "ARTÉS DE ARCOS",
+        "longitud": "-2.4590336",
+        "latitud": "36.8359675"
+    },
+    {
+        "numero": "294",
+        "nombre": "LAS PALOMAS",
+        "longitud": "-2.396461",
+        "latitud": "36.830694"
+    },
+    {
+        "numero": "298",
+        "nombre": "PASEO DE LA CARIDAD",
+        "longitud": "-2.4652327",
+        "latitud": "36.8478683"
+    },
+    {
+        "numero": "299",
+        "nombre": "PANIFICADORA VILLA BLANCA",
+        "longitud": "-2.4396999",
+        "latitud": "36.8534061"
+    },
+    {
+        "numero": "306",
+        "nombre": "COLEGIO EUROPA",
+        "longitud": "-2.440714",
+        "latitud": "36.85569"
+    },
+    {
+        "numero": "307",
+        "nombre": "CALLE DOMINGO ARTÉS 20",
+        "longitud": "-2.444643",
+        "latitud": "36.860127"
+    },
+    {
+        "numero": "308",
+        "nombre": "AVDA. MARÍA AZNAR, 127",
+        "longitud": "-2.4408707",
+        "latitud": "36.8558794"
+    },
+    {
+        "numero": "309",
+        "nombre": "AVDA. MARÍA AZNAR, 142",
+        "longitud": "-2.43993",
+        "latitud": "36.854179"
+    },
+    {
+        "numero": "311",
+        "nombre": "AVDA. MADRE MARÍA AZNAR, 151",
+        "longitud": "-2.4429187",
+        "latitud": "36.8582408"
+    },
+    {
+        "numero": "312",
+        "nombre": "INSTITUTO ALHADRA",
+        "longitud": "-2.441965",
+        "latitud": "36.8480872"
+    },
+    {
+        "numero": "313",
+        "nombre": "AV. CABO DE GATA 140",
+        "longitud": "-2.450464",
+        "latitud": "36.827781"
+    },
+    {
+        "numero": "314",
+        "nombre": "AV. CABO DE GATA 131",
+        "longitud": "-2.450353",
+        "latitud": "36.827738"
+    },
+    {
+        "numero": "316",
+        "nombre": "CAMINO DE LOS ESPEJOS",
+        "longitud": "-2.303086",
+        "latitud": "36.843164"
+    },
+    {
+        "numero": "317",
+        "nombre": "RESIDENCIAL SOL",
+        "longitud": "-2.307649",
+        "latitud": "36.838243"
+    },
+    {
+        "numero": "318",
+        "nombre": "LAS PALOMAS",
+        "longitud": "-2.396618",
+        "latitud": "36.830964"
+    },
+    {
+        "numero": "319",
+        "nombre": "TANATORIO",
+        "longitud": "-2.4474882",
+        "latitud": "36.8642243"
+    },
+    {
+        "numero": "320",
+        "nombre": "REDONDA ESTADIO MUNICIPAL",
+        "longitud": "-2.4448858",
+        "latitud": "36.8629216"
+    },
+    {
+        "numero": "321",
+        "nombre": "AVDA. MADRE MARÍA AZNAR, 6",
+        "longitud": "-2.4391836",
+        "latitud": "36.8519286"
+    },
+    {
+        "numero": "324",
+        "nombre": "INSTITUTO ALBAIDA",
+        "longitud": "-2.4432815",
+        "latitud": "36.8470746"
+    },
+    {
+        "numero": "325",
+        "nombre": "MANUEL MENDIZABAL",
+        "longitud": "-2.44547",
+        "latitud": "36.85401"
+    },
+    {
+        "numero": "326",
+        "nombre": "BARRANCO LAS HERAS 14",
+        "longitud": "-2.27833622879684",
+        "latitud": "36.8938697821741"
+    },
+    {
+        "numero": "327",
+        "nombre": "BARRANCO LAS HERAS",
+        "longitud": "-2.277163",
+        "latitud": "36.894979"
+    },
+    {
+        "numero": "331",
+        "nombre": "COMPAÑÍA DE MARÍA",
+        "longitud": "-2.4608",
+        "latitud": "36.8398"
+    },
+    {
+        "numero": "332",
+        "nombre": "HOSPITAL EL TOYO",
+        "longitud": "-2.31381699019307",
+        "latitud": "36.8509374175615"
+    },
+    {
+        "numero": "333",
+        "nombre": "CALLE JUEGOS DE SPLIT",
+        "longitud": "-2.31397914139348",
+        "latitud": "36.8509924396567"
+    },
+    {
+        "numero": "336",
+        "nombre": "PASEO DE LA CARIDAD, 5",
+        "longitud": "-2.4667394",
+        "latitud": "36.8465673"
+    },
+    {
+        "numero": "337",
+        "nombre": "CALLE LARGO CABALLERO, 40",
+        "longitud": "-2.4679617",
+        "latitud": "36.8471517"
+    },
+    {
+        "numero": "338",
+        "nombre": "CALLE LARGO CABALLERO, 84",
+        "longitud": "-2.470115",
+        "latitud": "36.8485712"
+    },
+    {
+        "numero": "339",
+        "nombre": "RESIDENCIA BALLESOL",
+        "longitud": "-2.4694599",
+        "latitud": "36.8517861"
+    },
+    {
+        "numero": "340",
+        "nombre": "CEP",
+        "longitud": "-2.4663565",
+        "latitud": "36.8512264"
+    },
+    {
+        "numero": "341",
+        "nombre": "IES AL ÁNDALUS",
+        "longitud": "-2.4647961",
+        "latitud": "36.850379"
+    },
+    {
+        "numero": "342",
+        "nombre": "DELEGACION DE EDUCACION",
+        "longitud": "-2.4625675",
+        "latitud": "36.8490182"
+    },
+    {
+        "numero": "343",
+        "nombre": "CEP",
+        "longitud": "-2.4646201",
+        "latitud": "36.8505671"
+    },
+    {
+        "numero": "344",
+        "nombre": "RESIDENCIA BALLESOL",
+        "longitud": "-2.4694599",
+        "latitud": "36.8517861"
+    },
+    {
+        "numero": "345",
+        "nombre": "CALLE FERNANDO DE ROJAS  COLEGIO",
+        "longitud": "-2.470805",
+        "latitud": "36.8486415"
+    },
+    {
+        "numero": "346",
+        "nombre": "CALLE GENOVESES, 29",
+        "longitud": "-2.4694986",
+        "latitud": "36.8471513"
+    },
+    {
+        "numero": "347",
+        "nombre": "RAMBLA BELÉN - ALFARERIAS",
+        "longitud": "-2.4619676",
+        "latitud": "36.8484113"
+    },
+    {
+        "numero": "363",
+        "nombre": "CALLE REGALÍZ GAYUBA",
+        "longitud": "-2.4430007",
+        "latitud": "36.8337352"
+    },
+    {
+        "numero": "364",
+        "nombre": "CALLE ALGAZUL",
+        "longitud": "-2.4399153",
+        "latitud": "36.8359938"
+    },
+    {
+        "numero": "367",
+        "nombre": "ÁRBOL DE LA SEDA",
+        "longitud": "-2.434806",
+        "latitud": "36.837078"
+    },
+    {
+        "numero": "368",
+        "nombre": "PALACIO DE DEPORTES",
+        "longitud": "-2.437869",
+        "latitud": "36.837443"
+    },
+    {
+        "numero": "391",
+        "nombre": "CALLE ITALIA, 6",
+        "longitud": "-2.450492",
+        "latitud": "36.851181"
+    },
+    {
+        "numero": "392",
+        "nombre": "PARQUE CALLE ITALIA",
+        "longitud": "-2.4500228",
+        "latitud": "36.8513684"
+    },
+    {
+        "numero": "393",
+        "nombre": "CALLE ITALIA  TITO PEDRO",
+        "longitud": "-2.447678",
+        "latitud": "36.851535"
+    },
+    {
+        "numero": "394",
+        "nombre": "CALLE ITALIA, 11",
+        "longitud": "-2.44724",
+        "latitud": "36.8516286"
+    },
+    {
+        "numero": "396",
+        "nombre": "AV. MEDITERRANEO, 454",
+        "longitud": "-2.4458135",
+        "latitud": "36.8552193"
+    },
+    {
+        "numero": "398",
+        "nombre": "AV. SANTA ISABEL, 26",
+        "longitud": "-2.4551311",
+        "latitud": "36.8467426"
+    },
+    {
+        "numero": "399",
+        "nombre": "AV. SANTA ISABEL, 58",
+        "longitud": "-2.4544191",
+        "latitud": "36.8479224"
+    },
+    {
+        "numero": "402",
+        "nombre": "AV. MEDITERRÁNEO, 456",
+        "longitud": "-2.4455019",
+        "latitud": "36.8576184"
+    },
+    {
+        "numero": "403",
+        "nombre": "COLEGIO ALMERÍA NORTE",
+        "longitud": "-2.445896",
+        "latitud": "36.856948"
+    },
+    {
+        "numero": "404",
+        "nombre": "PASEO DE ALMERÍA, 40",
+        "longitud": "-2.463486",
+        "latitud": "36.838489"
+    },
+    {
+        "numero": "406",
+        "nombre": "PUERTA DEL MAR",
+        "longitud": "-2.466833",
+        "latitud": "36.835569"
+    },
+    {
+        "numero": "407",
+        "nombre": "PASEO SAN LUÍS, 7",
+        "longitud": "-2.469059",
+        "latitud": "36.836832"
+    },
+    {
+        "numero": "408",
+        "nombre": "CALLE LA REINA, 17",
+        "longitud": "-2.468861",
+        "latitud": "36.839047"
+    },
+    {
+        "numero": "409",
+        "nombre": "ALCAZABA",
+        "longitud": "-2.470025",
+        "latitud": "36.83997"
+    },
+    {
+        "numero": "410",
+        "nombre": "CALLE REDUCTO, 8",
+        "longitud": "-2.472734",
+        "latitud": "36.839919"
+    },
+    {
+        "numero": "411",
+        "nombre": "CALLE REDUCTO, 92",
+        "longitud": "-2.474788",
+        "latitud": "36.84046"
+    },
+    {
+        "numero": "412",
+        "nombre": "LA CURVA",
+        "longitud": "-2.472943",
+        "latitud": "36.837802"
+    },
+    {
+        "numero": "413",
+        "nombre": "CALLE NICOLÁS SALMERÓN, 40",
+        "longitud": "-2.470787",
+        "latitud": "36.837154"
+    },
+    {
+        "numero": "414",
+        "nombre": "CALLE NICOLÁS SALMERÓN, 20",
+        "longitud": "-2.467316",
+        "latitud": "36.835986"
+    },
+    {
+        "numero": "415",
+        "nombre": "CALLE NICOLÁS SALMERÓN, 8",
+        "longitud": "-2.464736",
+        "latitud": "36.834638"
+    },
+    {
+        "numero": "416",
+        "nombre": "CALLE REGALIZ, 33",
+        "longitud": "-2.4437448",
+        "latitud": "36.8324927"
+    },
+    {
+        "numero": "417",
+        "nombre": "CALLE BELLADONA",
+        "longitud": "-2.437869",
+        "latitud": "36.837186"
+    },
+    {
+        "numero": "418",
+        "nombre": "CALLE ALGAZUL",
+        "longitud": "-2.440554",
+        "latitud": "36.8356773"
+    },
+    {
+        "numero": "419",
+        "nombre": "FEDERICO GARCÍA LORCA, 47",
+        "longitud": "-2.46015",
+        "latitud": "36.839096"
+    },
+    {
+        "numero": "420",
+        "nombre": "FEDERICO GARCÍA LORCA, 9",
+        "longitud": "-2.462301",
+        "latitud": "36.835885"
+    },
+    {
+        "numero": "421",
+        "nombre": "AVENIDA DE LA CRUZ, 24",
+        "longitud": "-2.457567",
+        "latitud": "36.851745"
+    },
+    {
+        "numero": "422",
+        "nombre": "AVENIDA DE LA CRUZ, 84",
+        "longitud": "-2.460086",
+        "latitud": "36.850872"
+    },
+    {
+        "numero": "460",
+        "nombre": "CANONIGO MOLINA ALONSO",
+        "longitud": "-2.462084078",
+        "latitud": "36.83484779"
+    },
+    {
+        "numero": "440",
+        "nombre": "ARQUÍMEDES",
+        "longitud": "-2.47492",
+        "latitud": "36.840056"
+    },
+    {
+        "numero": "401",
+        "nombre": "CARRETERA DE RONDA 78",
+        "longitud": "-2.4557423",
+        "latitud": "36.8374888"
+    },
+    {
+        "numero": "397",
+        "nombre": "FRAY JUAN DE PORTOCARRERO, 26",
+        "longitud": "-2.4442658",
+        "latitud": "36.8568487"
+    },
+    {
+        "numero": "441",
+        "nombre": "AVENIDA DE LA TOLERANCIA",
+        "longitud": "-2.4339454",
+        "latitud": "36.8464218"
+    },
+    {
+        "numero": "442",
+        "nombre": "AVENIDA DE LA TOLERANCIA - PARQUE",
+        "longitud": "-2.4331155",
+        "latitud": "36.8446554"
+    },
+    {
+        "numero": "432",
+        "nombre": "ANTONIO MUÑOZ ZAMORA",
+        "longitud": "-2.4396544",
+        "latitud": "36.8324085"
+    },
+    {
+        "numero": "433",
+        "nombre": "AVENIDA VEGA DE ACÁ",
+        "longitud": "-2.4383768",
+        "latitud": "36.8342316"
+    },
+    {
+        "numero": "434",
+        "nombre": "CAMINO DE LA GOLETA",
+        "longitud": "-2.4356278",
+        "latitud": "36.8360084"
+    },
+    {
+        "numero": "436",
+        "nombre": "ARBOL DE LA SEDA",
+        "longitud": "-2.4345437",
+        "latitud": "36.8365726"
+    },
+    {
+        "numero": "437",
+        "nombre": "AVENIDA VEGA DE ACÁ",
+        "longitud": "-2.4383526",
+        "latitud": "36.8338814"
+    },
+    {
+        "numero": "438",
+        "nombre": "ANTONIO MUÑOZ ZAMORA",
+        "longitud": "-2.4396544",
+        "latitud": "36.8324085"
+    },
+    {
+        "numero": "439",
+        "nombre": "MIGUEL DE MOLINA",
+        "longitud": "-2.4401826",
+        "latitud": "36.8355126"
+    },
+    {
+        "numero": "427",
+        "nombre": "CONSULTORIO AVDA. DE LA CRUZ",
+        "longitud": "-2.4564603",
+        "latitud": "36.8527007"
+    },
+    {
+        "numero": "424",
+        "nombre": "ANTONIA MERCÉ",
+        "longitud": "-2.4513966",
+        "latitud": "36.8593373"
+    },
+    {
+        "numero": "426",
+        "nombre": "PARKING HOSPITAL",
+        "longitud": "-2.440754",
+        "latitud": "36.8632289"
+    },
+    {
+        "numero": "443",
+        "nombre": "PARQUE ANDARAX",
+        "longitud": "-2.4367619",
+        "latitud": "36.8154955"
+    },
+    {
+        "numero": "444",
+        "nombre": "PARQUE ANDARAX",
+        "longitud": "-2.4367619",
+        "latitud": "36.8154955"
+    },
+    {
+        "numero": "430",
+        "nombre": "CTRA. VENTA CABRERA A VIATOR",
+        "longitud": "-2.387328",
+        "latitud": "36.8555469"
+    },
+    {
+        "numero": "349",
+        "nombre": "LOMA CABRERA",
+        "longitud": "-2.3863646",
+        "latitud": "36.8553009"
+    },
+    {
+        "numero": "384",
+        "nombre": "MANUEL AZAÑA",
+        "longitud": "-2.4436985",
+        "latitud": "36.8431672"
+    },
+    {
+        "numero": "385",
+        "nombre": "ESTADIO MEDITERRÁNEO",
+        "longitud": "-2.4336778",
+        "latitud": "36.8411704"
+    },
+    {
+        "numero": "431",
+        "nombre": "AVDA. JUEGOS MEDITERRÁNEOS, 29",
+        "longitud": "-2.3206151",
+        "latitud": "36.8439708"
+    },
+    {
+        "numero": "352",
+        "nombre": "VILLA MEDITERRÁNEA",
+        "longitud": "-2.322736",
+        "latitud": "36.841061"
+    },
+    {
+        "numero": "351",
+        "nombre": "CENTRO CONGRESOS",
+        "longitud": "-2.3227207",
+        "latitud": "36.8382036"
+    },
+    {
+        "numero": "350",
+        "nombre": "AVDA. JUEGOS CASABLANCA",
+        "longitud": "-2.3164",
+        "latitud": "36.8351676"
+    },
+    {
+        "numero": "377",
+        "nombre": "RESIDENCIAL ALBORÁN",
+        "longitud": "-2.3146491",
+        "latitud": "36.8343417"
+    },
+    {
+        "numero": "388",
+        "nombre": "ESTADIO MEDITERRÁNEO",
+        "longitud": "-2.433821",
+        "latitud": "36.8414051"
+    },
+    {
+        "numero": "389",
+        "nombre": "MANUEL AZAÑA, 139",
+        "longitud": "-2.443822",
+        "latitud": "36.8431713"
+    },
+    {
+        "numero": "400",
+        "nombre": "CANÓNIGO MOLINA ALONSO",
+        "longitud": "-2.4620558",
+        "latitud": "36.8349006"
+    },
+    {
+        "numero": "423",
+        "nombre": "COLEGIO EUROPA",
+        "longitud": "-2.444924",
+        "latitud": "36.8591907"
+    },
+    {
+        "numero": "395",
+        "nombre": "AVDA. MADRE MARÍA AZNAR LA SALLE",
+        "longitud": "-2.439241",
+        "latitud": "36.8521984"
+    },
+    {
+        "numero": ""
+    }
+]
